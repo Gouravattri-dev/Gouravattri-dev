@@ -12,7 +12,7 @@
 - 🌱 Learning **Docker, Linux, Git, CI/CD Pipelines**
 - 🎯 Goal: Become a **DevOps Engineer**
 - 💬 Ask me about **Python, Django, Docker, Linux**
-- 📫 Reach me at **gouravattri428@gmail.com**
+- 📫 Reach me at **gourava079@gmail.com**
 - 📍 Noida, India
 
 ---
