@@ -4,11 +4,7 @@
 <p align="center">
   <a href="./Gourav_Attri_Resume_DevOps_v2%20.pdf" target="_blank">    
     <img src="https://img.shields.io/badge/Download%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Gouravattri-dev/Gouravattri-dev/edit/main/Gourav_Attri_Resume_DevOps_v2%20.pdf">
-    <img src="https://img.shields.io/badge/Edit%20Resume-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Edit Resume"/>
-  </a>
+  
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vlines=true&width=435&lines=Technical+Support+Engineer;Python+%26+Django+Developer;Aspiring+DevOps+Engineer;Learning+Docker+%26+Linux" alt="Typing SVG" />
