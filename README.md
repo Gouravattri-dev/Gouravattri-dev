@@ -2,7 +2,7 @@
 <h3 align="center">Technical Support Engineer | Aspiring DevOps Engineer 🚀</h3>
 
 <p align="center">
-  <a href="./Gourav_Attri_Resume_DevOps_v2%20.pdf" target="_blank">    
+  <a href="./Gourav_Attri_Resume_DevOps_v2.pdf" target="_blank" rel="noopener noreferrer">   
     <img src="https://img.shields.io/badge/Download%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   
 </p>
